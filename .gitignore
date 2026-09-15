@@ -1,0 +1,19 @@
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# build
+.gradle/
+build/
+.dart_tool/
+
+# python
+__pycache__/
+*.py[cod]
+
+# local
+local.properties
+.env
+.claude/
+.DS_Store
